@@ -1,5 +1,5 @@
 ## Introduction
-<b>안녕하세요</b>, <b>항상 최선을 다하는 백엔드 개발자</b>가 되고 싶은 <b>조윤서</b>입니다.
+<b>안녕하세요</b>, <b>항상 최선을 다하는 백엔드 개발자</b>가 되고 싶은 <b>조윤서</b>입니다. 
 ## My Tech Stack
 <div>
   <img src="https://img.shields.io/badge/Python-3178C6?style=flat-square&logo=Python&logoColor=white"/>
